@@ -12,3 +12,6 @@ Este projeto é uma página web onde você pode digitar os nomes dos participant
 - HTML
 - CSS
 - JavaScript
+
+## Deploy
+- https://jogo-amigo-secreto-challenge-one-alura.vercel.app
